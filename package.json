@@ -2,7 +2,7 @@
     "name": "it-observatory",
     "version": "0.0.0",
     "author": "mshanemc",
-    "bugs": "https://github.com/mshanemc/it-observatory/issues",
+    "bugs": "https://github.com/mshanemc/90sec/issues",
     "dependencies": {
         "lwc-services": "^1"
     },
@@ -16,7 +16,7 @@
     "engines": {
         "node": ">=10.0.0"
     },
-    "homepage": "https://github.com/mshanemc/it-observatory",
+    "homepage": "https://github.com/mshanemc/90sec",
     "husky": {
         "hooks": {
             "pre-commit": "lint-staged"
