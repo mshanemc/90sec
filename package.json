@@ -19,7 +19,7 @@
     "homepage": "https://github.com/mshanemc/it-observatory",
     "husky": {
         "hooks": {
-            "pre-commit": "lint-staged && yarn test:unit"
+            "pre-commit": "lint-staged"
         }
     },
     "keywords": [
