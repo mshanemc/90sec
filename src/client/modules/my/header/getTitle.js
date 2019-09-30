@@ -1,8 +1,8 @@
 import { titleOverrides } from '../app/pageDefs';
 
 const standardHeader = {
-    title: 'Salesforce Platform Workshops',
-    subhead: "Now Building Apps is Everyone's Business"
+    title: 'How To: Build Apps in 30 Minutes or Less',
+    subhead: 'See what our Trailblazers can Build'
 };
 
 const getTitle = location => {

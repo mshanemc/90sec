@@ -1,9 +1,17 @@
 <template>
     <div class="tile_container">
-        <p class="slds-text-heading_small slds-text-align_center">
-            {tile.name}
-        </p>
-        <div>{tile.description}</div>
+        <div class="nametitle">
+            <div class="slds-text-heading_medium slds-text-align_center">
+                {tile.name}
+            </div>
+            <div class="slds-text-heading_small slds-text-align_center">
+                {tile.creator}
+            </div>
+        </div>
+        <div class="video-responsive">
+            <iframe width="420" height="315" src={tile.videoURL} frameborder="0" allowfullscreen></iframe>
+        </div>
+        <div class="description">{tile.description}</div>
         <div class="button_area">
             <template if:true={tile.launchURL}>
                 <my-button url={tile.launchURL} variant="brand" label="Create Org"></my-button>
