@@ -38,7 +38,7 @@ const workshops = [
     },
 
     {
-        name: 'Race Team Sponsorship App #TheAudiArmyApp',
+        name: 'Race Team Sponsorship App',
         shortname: 'audiarmy',
         creator: 'Donald Bohrisch',
         description:
