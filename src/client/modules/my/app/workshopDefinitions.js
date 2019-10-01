@@ -19,7 +19,7 @@ const workshops = [
         name: 'Equipment Calibration App',
         creator: 'Mike White',
         description:
-            'Close your eyes and imagine you are the equipment manager at a major manufacturing warehouse. You have on your bright yellow hard hat, white coat, clear protective eyewear, and a full cup of coffee. You are making your inspection rounds and realize how manual the process is. You think to yourself, wouldn’t it be awesome if I had an app that allowed me to track and monitor all the machines at once and have insights from the equipment data automatically sent to me. Now open your eyes, and watch how Mike was able to make that a reality in less than 30 minutes built on the Lightning Platform.',
+            'Close your eyes and imagine you are the equipment manager at a major manufacturing warehouse. You are making your inspection rounds and realize how manual the process is. You think to yourself, wouldn’t it be awesome if I had an app that allowed me to track and monitor all the machines at once and have insights from the equipment data automatically sent to me. Now open your eyes, and watch how Mike was able to make that a reality in less than 30 minutes on the Lightning Platform.',
         videoURL: 'https://www.youtube.com/embed/gyGt386eAqw?start=3532',
         launchURL: launcher + 'https://github.com/MBWhite01/EquipmentCalibration',
         docsURL: 'https://github.com/MBWhite01/EquipmentCalibration'
