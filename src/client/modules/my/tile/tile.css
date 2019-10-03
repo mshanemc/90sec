@@ -47,7 +47,8 @@
     margin: 2vh 0 2vh 0;
     flex-grow: 0;
 }
-.video-responsive iframe {
+.video-responsive iframe,
+.video-responsive img {
     left: 0;
     top: 0;
     height: 100%;

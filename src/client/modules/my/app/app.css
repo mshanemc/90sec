@@ -19,11 +19,14 @@ my-wiab {
 }
 
 my-tile {
-    width: 36%;
-    /* max-width: 40%; */
     margin: 2vw;
 }
 
+@media all and (min-width: 800px) {
+    my-tile {
+        width: 36%;
+    }
+}
 img {
     max-width: 90px;
 }
