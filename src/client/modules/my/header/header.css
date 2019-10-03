@@ -10,6 +10,10 @@ img {
     margin: 1vh;
 }
 
+div {
+    text-align: center;
+}
+
 .slds-text-heading_large,
 .slds-text-heading--large {
     font-weight: 300;
