@@ -11,7 +11,7 @@ const workshops = [
             'Kristi is a Lightning Champion and Salesforce Architect, she and her colleagues have stumbled upon an ancient pastime to well... pass the time. Ping Pong. Now, an office game turned tournament gauntlet, Kristi wanted to find a way to track her colleagues game stats that was simple, insightful, and fast. See how she built an app that does just that in less than 30 minutes on the Salesforce Lightning Platform.',
         docsURL: 'https://github.com/mshanemc/pingpong',
         // docsURL: 'https://org62.my.salesforce.com/sfc/p/000000000062/a/0M000000J8MI/ZRSjDZh2GpA27vuht8K3h4DI1322h0XHAXnHfHMOPjM',
-        videoURL: 'https://www.youtube.com/embed/gyGt386eAqw?start=3532',
+        videoURL: 'https://www.youtube.com/watch?v=jaJWPmauVm4',
         launchURL: launcher + 'https://github.com/mshanemc/pingpong'
     },
     {
