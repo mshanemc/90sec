@@ -1,7 +1,7 @@
 const titleOverrides = {};
 
 const pages = {
-    all: ['pingpong', 'equipment_calibration', 'texting_app', 'audiarmy']
+    all: ['pingpong', 'audiarmy', 'equipment_calibration', 'texting_app']
 };
 
 export { pages, titleOverrides };

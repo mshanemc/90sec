@@ -47,7 +47,7 @@ const workshops = [
             'Donald loves a fast car, but not just any kind of fast car, he likes race cars. Daytona, Indy, milk at the finish line. That kind of car. And like most car aficionados he dreams to one day manage a race team of his own. And nothing is more iconic for a race car than their sponsorship logos. See how Donald was able to create a sponsorship tracking app for his team #TheAudiArmy in less than 30 minutes built on the Lightning Platform.',
         docsURL: 'https://github.com/mshanemc/audiarmy',
         // docsURL: 'https://org62.my.salesforce.com/sfc/p/000000000062/a/0M000000J8MX/1F71i_RoP_ahlK7CpjV3wGjQy23q6RyMSRfkC2e5uWw',
-        // videoURL: 'https://www.youtube.com/embed/gyGt386eAqw?start=3532',
+        videoURL: 'https://www.youtube.com/embed/Jrhn4F1XSJ4',
         launchURL: launcher + 'https://github.com/mshanemc/audiarmy',
         imgURL: '/resources/images/coming_soon_audi.png'
     }
