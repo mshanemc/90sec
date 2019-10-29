@@ -20,7 +20,7 @@ const workshops = [
         creator: 'Mike White',
         description:
             'Close your eyes and imagine you are the equipment manager at a major manufacturing warehouse. You are making your inspection rounds and realize how manual the process is. You think to yourself, wouldn’t it be awesome if I had an app that allowed me to track and monitor all the machines at once and have insights from the equipment data automatically sent to me. Now open your eyes, and watch how Mike was able to make that a reality in less than 30 minutes on the Lightning Platform.',
-        // videoURL: 'https://www.youtube.com/embed/gyGt386eAqw?start=3532',
+        videoURL: 'https://www.youtube.com/embed/8NvyJCFvFns',
         launchURL: launcher + 'https://github.com/MBWhite01/EquipmentCalibration',
         docsURL: 'https://github.com/MBWhite01/EquipmentCalibration',
         imgURL: '/resources/images/coming_soon_equipment.png'
@@ -34,7 +34,7 @@ const workshops = [
             'Meet Michelle. She loves connecting with people. In this day and age she understands that the easiest way to connect with people is through text message. Odds are you’re probably reading this on your phone as we speak. So as someone who wants to stay connected with her customers and colleagues, Michelle needed a way to do so. Not just when she’s on the go but also when her customers are on the go. See how she built an app to SMS text message members in a salesforce campaign updates, changes and more in less than 30 minutes built on the Lightning Platform.',
         docsURL: 'https://github.com/mshanemc/twilio-text-app',
         // docsURL: 'https://org62.my.salesforce.com/sfc/p/000000000062/a/0M000000J8MS/PaJMIhyojXOsYxgLgkeH0DGokBdzha3fa7dtdgVVFO0',
-        // videoURL: 'https://www.youtube.com/embed/gyGt386eAqw?start=3532',
+        videoURL: 'https://www.youtube.com/embed/uAJxhm0bbmE',
         launchURL: launcher + 'https://github.com/mshanemc/twilio-text-app',
         imgURL: '/resources/images/coming_soon_sms.png'
     },
